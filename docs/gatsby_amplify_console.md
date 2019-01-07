@@ -12,7 +12,7 @@ AWS Amplify is a combination of client library, CLI toolchain, and a Console for
 
 1. This guide assumes that you have setup a Gatsby project. If you need to set up a project, start with the Gatsby Auth starter with AWS Amplify then come back. The starter implements a basic authentication flow for signing up signing in users as well as protected client side routing.
 
-![Gatsby Amplify](images/gatby-auth.gif)
+![Gatsby Amplify](./images/gatby-auth.gif)
 
 
 
