@@ -1,5 +1,5 @@
 # Deploying with AWS Amplify
 
-Third party websites:
+Third party website:
 
 - [Gatsby](gatsby_amplify_console.md)
